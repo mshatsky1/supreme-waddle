@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def main():
+def main() -> None:
     try:
         print("Hello, World!")
     except Exception as e:
