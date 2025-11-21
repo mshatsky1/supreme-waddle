@@ -1,6 +1,6 @@
 """Utility functions for the project."""
 
-def greet(name):
+def greet(name: str) -> str:
     """Return a greeting message.
     
     Args:
