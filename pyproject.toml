@@ -1,0 +1,5 @@
+[project]
+name = "supreme-waddle"
+version = "1.0.0"
+description = "A simple Python project"
+
