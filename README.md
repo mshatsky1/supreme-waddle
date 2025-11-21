@@ -26,3 +26,29 @@ Run the main script:
 python main.py
 ```
 
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For support, please open an issue on GitHub.
+
+## Roadmap
+
+- [ ] Add more utility functions
+- [ ] Improve test coverage
+- [ ] Add CLI interface
+
+## Acknowledgments
+
+Thanks to all contributors who have helped improve this project.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
+
