@@ -3,3 +3,6 @@ name = "supreme-waddle"
 version = "1.0.0"
 description = "A simple Python project"
 
+[tool.black]
+line-length = 88
+target-version = ['py311']
