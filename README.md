@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
 A simple Python project.
 
