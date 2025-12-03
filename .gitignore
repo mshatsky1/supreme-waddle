@@ -20,3 +20,13 @@ dist/
 build/
 *.egg-info/
 
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# OS files
+.DS_Store
+Thumbs.db
+
